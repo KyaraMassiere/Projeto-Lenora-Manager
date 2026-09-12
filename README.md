@@ -8,7 +8,7 @@ O **Lenora DataManager** é um sistema projetado para centralizar e facilitar a 
 
 A proposta partiu de uma necessidade real do cotidiano profissional no ensino de idiomas, visando substituir controles manuais e planilhas pouco efetivas por uma solução tecnológica robusta baseada em banco de dados. O foco é resolver problemas críticos como o controle rigoroso de frequência, regras de remarcação e a gestão de prazos de pagamentos.
 
-## ✨ Diferenciais e Funcionalidades
+##  Diferenciais e Funcionalidades
 
 O sistema possui uma estrutura modular para garantir a saúde financeira do negócio e permitir que o professor foque exclusivamente no ensino:
 
@@ -18,7 +18,7 @@ O sistema possui uma estrutura modular para garantir a saúde financeira do neg�
 *   **Perfis de Acesso:** Níveis de acesso flexíveis (Gestor, Pedagógico e Administrativo) que protegem dados financeiros e garantem a segurança da informação.
 *   **Segurança de Dados:** Rotina de backup diário automatizado.
 
-## 💻 Tecnologias e Arquitetura
+##  Tecnologias e Arquitetura
 
 Este projeto foi estruturado seguindo as melhores práticas de abstração de dados e integridade referencial:
 
