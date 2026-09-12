@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow) ![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-MySQL-blue) ![Linguagem](https://img.shields.io/badge/Linguagem-Java-red) ![Objetivo](https://img.shields.io/badge/Objetivo-Gestão%20Pedagógica-brightgreen)
 
-## 📝 Sobre o Projeto
+##  Sobre o Projeto
 
 O **Lenora DataManager** é um sistema projetado para centralizar e facilitar a gestão pedagógica e financeira de escolas de idiomas e professores autônomos. 
 
